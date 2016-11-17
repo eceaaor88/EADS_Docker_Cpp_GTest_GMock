@@ -1,4 +1,4 @@
-#include "../src/RomanNumbers.h"
+#include "RomanNumbers.h"
 
 #include "gmock/gmock.h"
 
